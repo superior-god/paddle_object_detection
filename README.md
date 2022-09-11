@@ -173,11 +173,3 @@
     </tr>
   </tbody>
 </table>
-
-<summary><b> 云端模型性能对比</b></summary>
-
-各模型结构和骨干网络的代表模型在COCO数据集上精度mAP和单卡Tesla V100上预测速度(FPS)对比图。
-
-<div align="center">
-  <img src="docs/images/fps_map.png" />
-</div>
